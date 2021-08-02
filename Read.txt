@@ -1,3 +1,2 @@
 this is the project3 for EECS 470
 for test merge pull
-add a new line
